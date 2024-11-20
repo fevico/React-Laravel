@@ -1,1 +1,10 @@
 this is a mono repo that contains the following:
+this project was but with laravel vite for react frontend and laravel backend
+i use breeze react for the authentication and material ui and tailwind for the frontend
+the frontend file are resources/js folder including all jsx components
+when starting the application you have to run npm install to install the dependencies for react and 
+composer install to install the dependencies for laravel
+to run the application you have to run npm run dev to start the react development server 
+and php artisan serve to start the laravel development server on different terminals
+the database is already created and the tables are already created
+the application is already tested and it is working as expected
